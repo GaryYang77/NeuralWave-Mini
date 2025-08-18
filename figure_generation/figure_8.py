@@ -116,7 +116,7 @@ def plot_param_compare(models, param_preds, param_trues, x, case_steps,
 
 
 if __name__ == '__main__':
-    figures_path = '../Figures'
+    figures_path = 'paper_figures'
     if not os.path.exists(figures_path):
         os.makedirs(figures_path)
 
