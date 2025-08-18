@@ -5,10 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org)
 
-This repository contains the **mini version** of our NeuralWave model, developed for reproducing the experiments in our research paper:
-
-> **"Unveiling the Potential of End-to-End Ocean Wave Modeling via a Hybrid Framework"**
-
 ## Overview
 
 NeuralWave Mini is the official **proof-of-concept (POC)** implementation of our hybrid ocean wave modeling framework, as presented in our manuscript. It is a lightweight and focused version designed specifically to reproduce the **one-dimensional (1D) wave propagation experiments (including depth refraction)** that form the basis of our initial study.
@@ -42,15 +38,15 @@ nwm_mini_openResearch_Final/
 ├── datasets/                    # Training and test datasets (download required)
 ├── welltrained_case_models/     # Pre-trained model weights (download required)
 ├── results/                     # Experimental results (download required)
-├── paper_figures/              # Generated figures from the paper (download required)
-├── models/                     # Model implementations
-│   ├── nwm/                   # NeuralWave model
-│   ├── earthformer/           # EarthFormer implementation
-│   └── unet/                  # U-Net implementation
-├── figure_generation/          # Scripts for generating paper figures
-├── inference/                  # Inference handlers and configurations
-├── run_inference.py           # Main inference script
-└── requirements.txt           # Python dependencies
+├── paper_figures/               # Generated figures from the paper (download required)
+├── models/                      # Model implementations
+│   ├── nwm/                     # NeuralWave model
+│   ├── earthformer/             # EarthFormer implementation
+│   └── unet/                    # U-Net implementation
+├── figure_generation/           # Scripts for generating paper figures
+├── inference/                   # Inference handlers and configurations
+├── run_inference.py             # Main inference script
+└── requirements.txt             # Python dependencies
 ```
 
 ## Quick Start
