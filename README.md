@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 ⚠️ **Important**: The datasets and pre-trained models are hosted on Zenodo and must be downloaded separately. The required files are split into two parts due to their size.
 
-*   **[Datasets, Pre-trained models & Results](<YOUR_ZENODO_LINK>)**
+*   **[Datasets, Pre-trained models & Results](<https://doi.org/10.5281/zenodo.16889873>)**
 
 After downloading, extract **both** archives and place the contained folders (`datasets/`, `welltrained_case_models/`, `results/`, `paper_figures/`) into the root of this project directory to match the structure shown above.
 
@@ -111,9 +111,6 @@ Reproduce the exact figures from our paper:
 python figure_generation/figure_4a.py    # Spectra ablation analysis
 python figure_generation/figure_10.py    # Integrate wave parameters ablation analysis
 python figure_generation/figure_12a.py   # Noise robustness analysis
-
-# Generate all figures
-for /l %i in (4,1,14) do python figure_generation/figure_%i*.py
 ```
 
 **Generated figures will be saved in `paper_figures/` directory**
