@@ -1,6 +1,6 @@
 # NeuralWave Mini: A Hybrid Ocean Wave Modeling Framework
 
-[![Dataset & Models (Zenodo)](https://img.shields.io/badge/Zenodo-Data%26Models-blue)](<YOUR_SINGLE_ZENODO_LINK>)
+[![Dataset & Models (Zenodo)](https://img.shields.io/badge/Zenodo-Data%26Models-blue)](<https://doi.org/10.5281/zenodo.16889873>)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org)
@@ -165,7 +165,7 @@ For any questions or discussions, please use the appropriate channel:
 - **Technical Issues & Code Questions**: For bug reports, installation problems, or questions about the code, please **open an issue** on the [GitHub Issues](https://github.com/GaryYang77/NeuralWave-Mini/issues) page. This is the preferred method for technical support.
 
 - **Primary Code Author**: For direct inquiries not suitable for a public issue, you can reach out to:
-  - **Gary Yang**: `yanggy25@mail2.sysu.edu.cn`
+  - **GaryYang**: `yanggy25@mail2.sysu.edu.cn`
 
 ## Version History
 
