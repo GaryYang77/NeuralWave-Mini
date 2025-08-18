@@ -1,0 +1,13 @@
+network:
+  type: UNet
+
+physics:
+  dt_advec: 300.0
+  dt_stot: 300.0
+  radius_earth: 6366197.7236758135
+  FACTH: 1.0
+  FACVX: 1.05
+  FACHFA: 1.0
+  enable_refraction: true
+  enable_advection: true
+  enable_learnstot: true
