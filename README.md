@@ -154,7 +154,7 @@ Model configurations are stored in:
 This code supports our manuscript, which is currently under review. If you use this code or our methodology in your research, we kindly ask you to cite our paper.
 
 **Manuscript Reference:**
-> Yang, G. G., Lu, W., et al. (2025). "Unveiling the Potential of End-to-End Ocean Wave Modeling via a Hybrid Framework." *Submitted to Journal of Advances in Modeling Earth Systems (JAMES)*.
+> Yang, G. G., Lu, W., et al. (2025). "A New Neural Wave Spectra Model." *Submitted to Geoscientific Model Development (GMD)*.
 
 ## License
 
@@ -176,3 +176,4 @@ For any questions or discussions, please use the appropriate channel:
 ---
 
 **Note**: This is the mini version of our NeuralWave framework. The complete version with additional features and optimizations will be released upon completion of our ongoing research.
+
