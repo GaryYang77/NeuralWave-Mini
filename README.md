@@ -31,15 +31,6 @@ Our hybrid framework integrates multiple state-of-the-art models:
 - **EarthFormer**: Transformer-based spatiotemporal modeling
 - **U-Net**: Convolutional neural network for spatial feature extraction
 
-## Dynamic Framework Update（2025-10-16）
-
-🆕 **New Development**: The ocean wave dynamics framework component has been updated and open-sourced as an independent project:
-
-- **Repository**: [waden](https://github.com/GaryYang77/waden.git)
-- **Status**: Now available as a standalone framework with validation results
-- **Purpose**: Provides the core wave dynamics engine that can be integrated with various neural network architectures
-- **Benefits**: Modular design allows for easier integration and testing of different hybrid approaches
-
 ## Project Structure
 
 ```
@@ -176,4 +167,5 @@ For any questions or discussions, please use the appropriate channel:
 ---
 
 **Note**: This is the mini version of our NeuralWave framework. The complete version with additional features and optimizations will be released upon completion of our ongoing research.
+
 
